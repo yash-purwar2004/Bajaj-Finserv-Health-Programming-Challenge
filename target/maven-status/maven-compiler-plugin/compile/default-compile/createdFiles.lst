@@ -1,0 +1,4 @@
+com\example\bfh\BfhApplication.class
+com\example\bfh\model\User.class
+com\example\bfh\runner\AppStartupRunner.class
+com\example\bfh\model\RequestPayload.class
